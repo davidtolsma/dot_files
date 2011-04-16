@@ -1,0 +1,3 @@
+[submodule "test_ref"]
+	path = test_ref
+	url = http://davidtolsma@github.com/davidtolsma/test_ref.git

@@ -1,0 +1,8 @@
+## ignoring files
+
+*~
+*.cache
+*.bash*
+*.profile
+*.viminfo
+*.sudo_as_admin_successful
