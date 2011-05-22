@@ -1,1 +1,3 @@
 :set number
+
+:set list
